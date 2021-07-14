@@ -1,0 +1,18 @@
+
+
+.fondoCard{
+    background-color: transparent;
+    background: linear-gradient(rgba(126, 98, 98, 0.4),rgba(0,0,0,0.4));
+    background-size: cover;
+    border: transparent;
+    color: white;
+    
+}
+
+.card {
+    margin: 0px 40px;
+}
+
+span{
+    font-weight: 600;
+}
